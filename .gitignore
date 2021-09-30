@@ -1,0 +1,28 @@
+
+#archivos de clases compiladas
+*.class
+
+#archivo log
+*.log
+
+#BlueJ files
+.ctxt
+
+#java mobil
+.mtj.temp
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# log de maquina virtual, Ver http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+#
+.classpath
