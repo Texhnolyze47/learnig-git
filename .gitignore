@@ -25,4 +25,7 @@ hs_err_pid*
 
 
 #
+/GIT-CLONE-TEST
 .classpath
+.project
+.license
