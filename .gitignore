@@ -25,7 +25,10 @@ hs_err_pid*
 
 
 #
+/.settings
+/doc
 /GIT-CLONE-TEST
 .classpath
 .project
 .license
+algunasConfiguracionesImportantes.txt
