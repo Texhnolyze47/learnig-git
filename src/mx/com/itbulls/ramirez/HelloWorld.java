@@ -21,15 +21,10 @@ public class HelloWorld {
 		
 	
 		System.out.println("Hello World");
-		System.out.println("Modificacion del programa");
-		System.out.println("Modificacion del programa 2");
-		System.out.println("Modificacion del protocolo a SSH");
+		System.out.println("Modificación del programa");
+		System.out.println("Modificación del programa 2");
+		System.out.println("Modificación del protocolo a SSH");
 
-		
-		//TODO add more code
-		
-		/**
-		 * @return is a void method 
-		 */
+	
 	}
 }
