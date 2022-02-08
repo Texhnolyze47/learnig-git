@@ -1,0 +1,124 @@
+[33mcommit 7477f509ad22692e84385f95c8536b0c70a3f473[m[33m ([m[1;36mHEAD -> [m[1;32mTA005_home_carousel[m[33m, [m[1;31morigin/TA005_home_carousel[m[33m)[m
+Merge: 41d770d 67bdef8
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 20:22:19 2022 -0600
+
+    Merge branch 'main' of github.com:Texhnolyze47/learnig-git into TA005_home_carousel
+
+[33mcommit 67bdef8406a338d4a126002213f64306e952e0c5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 19:43:28 2022 -0600
+
+    login
+
+[33mcommit 41d770d0acf0302e22bb2e42f49df0a96e1258ff[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 20:03:41 2022 -0600
+
+    carousel en la pagina principal
+
+[33mcommit 631052fdc4d43eb490ff9c0fb68f20434dec9dea[m[33m ([m[1;32mmain[m[33m)[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 17:05:54 2022 -0600
+
+    Stock Management is implemented
+
+[33mcommit a9bf91a64c6db8ae6353a642a5d22990648a57c1[m
+Merge: 1bd7c08 bcc78a2
+Author: Texhnolyze47 <47402911+Texhnolyze47@users.noreply.github.com>
+Date:   Sun Jan 23 17:00:33 2022 -0600
+
+    Merge pull request #2 from Texhnolyze47/TA0002_vitual_cart
+    
+    Ta0002 vitual cart
+
+[33mcommit bcc78a2b271f8b3333212ffdf6c892d318f7def1[m[33m ([m[1;31morigin/TA0002_vitual_cart[m[33m, [m[1;32mTA0002_vitual_cart[m[33m)[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 16:59:02 2022 -0600
+
+    cambio de lugar de archivo
+
+[33mcommit 775dc3b1bb8a845afd62e4423afcccc8bd2e39d9[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 16:40:00 2022 -0600
+
+    Cart Management is implemented
+
+[33mcommit eac2899f5fa39b1df48762dd5d8688a0d424e0f5[m
+Merge: 4942e4e 1bd7c08
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Sun Jan 23 12:45:03 2022 -0600
+
+    merge
+
+[33mcommit 1bd7c08dddc1b9bcdf53707e93ff996ca7d66134[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Wed Jan 19 21:29:58 2022 -0600
+
+    mas espacios
+
+[33mcommit 9af678f55afba7e75ed92b931a47e4e8c65ef9f2[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Wed Jan 19 21:16:53 2022 -0600
+
+    espacios añÃadidos
+
+[33mcommit ad90a23012e4fe3081dee07579f7883480aa3c9b[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Wed Jan 19 20:46:18 2022 -0600
+
+    Personal discount for user can be calculated
+
+[33mcommit 4942e4ed17a6fcc6adc071c0c8ba634843444d7b[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Wed Jan 19 21:28:17 2022 -0600
+
+    falto un commit
+
+[33mcommit 91de50e2bdc15586d74a7e7e3900ff98b22c84b6[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Wed Jan 19 21:26:27 2022 -0600
+
+    me equivoque
+
+[33mcommit 04311ba02ddb3f1f794aa637ebcbabfb012767ca[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Fri Oct 1 23:15:11 2021 -0500
+
+    prueba conexion ssh
+
+[33mcommit 4b7acf8b463cc3c75ac1ab0cfed6472ddc5c9cc1[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 19:52:30 2021 -0500
+
+    otra vez tratando de eliminar archivos
+
+[33mcommit 9f415ccaff9f94e363a7d40ac914e9ffba245277[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 19:43:33 2021 -0500
+
+    Elimine los archivos inncesarios del proyecto
+
+[33mcommit 01d4832301ff435f12ed69d4efc2ed0cc22adc9a[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 19:27:07 2021 -0500
+
+    Removieron algunos archivos no necesarios
+
+[33mcommit 5105c427a885413f788d87ef6290d3cb068f85a5[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 18:46:31 2021 -0500
+
+    Actualizado - Agregramos .gitignore y se removieron archivos inncesarios del stating
+
+[33mcommit d585b2fb1129e37994d0e665f91d6b72fc9c93bd[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 18:25:30 2021 -0500
+
+    Se agrego una linea de codigo
+
+[33mcommit 8fdcda0f51618368495cc0e38bd0cd9b8e05398f[m
+Author: Texhnolyze <ichigobankai136@gmail.com>
+Date:   Thu Sep 30 18:21:12 2021 -0500
+
+    primer commit
